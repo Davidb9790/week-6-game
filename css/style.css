@@ -1,0 +1,44 @@
+.container{
+background-color: white;
+opacity: .9;
+border-radius: 25px;
+}
+h1{
+	color: #A20932;
+	text-align: center;
+	font-size: 128px;
+	margin: 1px;
+}
+button{
+	border:15px 50px;
+	color:white;
+	background-color: #A20932;
+	padding:20px;
+}
+#addPlayer{
+	border:15px 50px;
+	color:white;
+	background-color: #A20932;
+	padding: 20PX;
+}
+label{
+	font-size: 24px;
+}
+/*#movie-input{
+	padding: 15px;
+}*/
+p{
+	background-color: white;
+	font-size: 28px;
+
+}
+#buttonsView{
+	text-align: center;
+}
+form{
+	text-align: center;
+}
+body{
+	background-image: url("pattern2.jpg"); 
+	background-size: 100%;
+}
